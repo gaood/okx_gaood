@@ -1,0 +1,23 @@
+{
+   "ACCOUNTS":{
+    "OK-ACCESS-KEY":"",
+    "OK-SECRET-KEY":"",
+    "OK-ACCESS-PASSPHRASE":""
+   },
+   "HEAD_URL":{
+      
+       "REST":"https://www.okx.com/",
+       "WebSocket_public":"wss://ws.okx.com:8443/ws/v5/public",
+       "WebSocket_private":"wss://ws.okx.com:8443/ws/v5/private",
+       
+       "REST_SHAM":"https://www.okx.com/",
+       "WebSocket_public_SHAM":"wss://wspap.okx.com:8443/ws/v5/public?brokerId=9999",
+       "WebSocket_private_SHAM":"wss://wspap.okx.com:8443/ws/v5/private?brokerId=9999"
+   },   
+   "REQUEST_PATH":{
+
+   },
+   "METHOD":{
+
+   }
+}
